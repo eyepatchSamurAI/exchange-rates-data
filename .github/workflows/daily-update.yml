@@ -1,0 +1,41 @@
+name: Daily Exchange Rate Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-exchange-rates:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt  # Assumes you have a requirements.txt
+
+    - name: Run Script to Get Exchange Rates
+      run: python get_exchange_rates.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Check if there are any changes to commit
+        if [[ `git status --porcelain` ]]; then
+          git add data/rates.json  # Path to your output JSON file
+          git commit -m "Daily update of exchange rates"
+          git push
+        else
+          echo "No changes to commit"
+        fi

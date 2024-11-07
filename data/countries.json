@@ -1,0 +1,1661 @@
+{
+    "AFG": {
+        "country_name": "Afghanistan",
+        "currency_name": "Afghani",
+        "currency_iso_code": "AFN",
+        "alpha2_code": "AF",
+        "numeric_id": 4
+    },
+    "ALB": {
+        "country_name": "Albania",
+        "currency_name": "Lek",
+        "currency_iso_code": "ALL",
+        "alpha2_code": "AL",
+        "numeric_id": 8
+    },
+    "DZA": {
+        "country_name": "Algeria",
+        "currency_name": "Algerian Dinar",
+        "currency_iso_code": "DZD",
+        "alpha2_code": "DZ",
+        "numeric_id": 12
+    },
+    "ASM": {
+        "country_name": "American Samoa",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "AS",
+        "numeric_id": 16
+    },
+    "AND": {
+        "country_name": "Andorra",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "AD",
+        "numeric_id": 20
+    },
+    "AGO": {
+        "country_name": "Angola",
+        "currency_name": "Kwanza",
+        "currency_iso_code": "AOA",
+        "alpha2_code": "AO",
+        "numeric_id": 24
+    },
+    "AIA": {
+        "country_name": "Anguilla",
+        "currency_name": "East Caribbean Dollar",
+        "currency_iso_code": "XCD",
+        "alpha2_code": "AI",
+        "numeric_id": 660
+    },
+    "ATA": {
+        "country_name": "Antarctica",
+        "currency_name": null,
+        "currency_iso_code": null,
+        "alpha2_code": "AQ",
+        "numeric_id": 10
+    },
+    "ATG": {
+        "country_name": "Antigua and Barbuda",
+        "currency_name": "East Caribbean Dollar",
+        "currency_iso_code": "XCD",
+        "alpha2_code": "AG",
+        "numeric_id": 28
+    },
+    "ARG": {
+        "country_name": "Argentina",
+        "currency_name": "Argentine Peso",
+        "currency_iso_code": "ARS",
+        "alpha2_code": "AR",
+        "numeric_id": 32
+    },
+    "ARM": {
+        "country_name": "Armenia",
+        "currency_name": "Armenian Dram",
+        "currency_iso_code": "AMD",
+        "alpha2_code": "AM",
+        "numeric_id": 51
+    },
+    "ABW": {
+        "country_name": "Aruba",
+        "currency_name": "Aruban Florin",
+        "currency_iso_code": "AWG",
+        "alpha2_code": "AW",
+        "numeric_id": 533
+    },
+    "AUS": {
+        "country_name": "Australia",
+        "currency_name": "Australian Dollar",
+        "currency_iso_code": "AUD",
+        "alpha2_code": "AU",
+        "numeric_id": 36
+    },
+    "AUT": {
+        "country_name": "Austria",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "AT",
+        "numeric_id": 40
+    },
+    "AZE": {
+        "country_name": "Azerbaijan",
+        "currency_name": "Azerbaijani Manat",
+        "currency_iso_code": "AZN",
+        "alpha2_code": "AZ",
+        "numeric_id": 31
+    },
+    "BHS": {
+        "country_name": "Bahamas",
+        "currency_name": "Bahamian Dollar",
+        "currency_iso_code": "BSD",
+        "alpha2_code": "BS",
+        "numeric_id": 44
+    },
+    "BHR": {
+        "country_name": "Bahrain",
+        "currency_name": "Bahraini Dinar",
+        "currency_iso_code": "BHD",
+        "alpha2_code": "BH",
+        "numeric_id": 48
+    },
+    "BGD": {
+        "country_name": "Bangladesh",
+        "currency_name": "Taka",
+        "currency_iso_code": "BDT",
+        "alpha2_code": "BD",
+        "numeric_id": 50
+    },
+    "BRB": {
+        "country_name": "Barbados",
+        "currency_name": "Barbados Dollar",
+        "currency_iso_code": "BBD",
+        "alpha2_code": "BB",
+        "numeric_id": 52
+    },
+    "BLR": {
+        "country_name": "Belarus",
+        "currency_name": "Belarusian Ruble",
+        "currency_iso_code": "BYN",
+        "alpha2_code": "BY",
+        "numeric_id": 112
+    },
+    "BEL": {
+        "country_name": "Belgium",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "BE",
+        "numeric_id": 56
+    },
+    "BLZ": {
+        "country_name": "Belize",
+        "currency_name": "Belize Dollar",
+        "currency_iso_code": "BZD",
+        "alpha2_code": "BZ",
+        "numeric_id": 84
+    },
+    "BEN": {
+        "country_name": "Benin",
+        "currency_name": "CFA Franc (BCEAO)",
+        "currency_iso_code": "XOF",
+        "alpha2_code": "BJ",
+        "numeric_id": 204
+    },
+    "BMU": {
+        "country_name": "Bermuda",
+        "currency_name": "Bermudian Dollar",
+        "currency_iso_code": "BMD",
+        "alpha2_code": "BM",
+        "numeric_id": 60
+    },
+    "BTN": {
+        "country_name": "Bhutan",
+        "currency_name": "Ngultrum",
+        "currency_iso_code": "BTN",
+        "alpha2_code": "BT",
+        "numeric_id": 64
+    },
+    "BOL": {
+        "country_name": "Bolivia (Plurinational State of)",
+        "currency_name": "Boliviano",
+        "currency_iso_code": "BOB",
+        "alpha2_code": "BO",
+        "numeric_id": 68
+    },
+    "BES": {
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "BQ",
+        "numeric_id": 535
+    },
+    "BIH": {
+        "country_name": "Bosnia and Herzegovina",
+        "currency_name": "Convertible Mark",
+        "currency_iso_code": "BAM",
+        "alpha2_code": "BA",
+        "numeric_id": 70
+    },
+    "BWA": {
+        "country_name": "Botswana",
+        "currency_name": "Pula",
+        "currency_iso_code": "BWP",
+        "alpha2_code": "BW",
+        "numeric_id": 72
+    },
+    "BVT": {
+        "country_name": "Bouvet Island",
+        "currency_name": null,
+        "currency_iso_code": null,
+        "alpha2_code": "BV",
+        "numeric_id": 74
+    },
+    "BRA": {
+        "country_name": "Brazil",
+        "currency_name": "Brazilian Real",
+        "currency_iso_code": "BRL",
+        "alpha2_code": "BR",
+        "numeric_id": 76
+    },
+    "IOT": {
+        "country_name": "British Indian Ocean Territory",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "IO",
+        "numeric_id": 86
+    },
+    "BRN": {
+        "country_name": "Brunei Darussalam",
+        "currency_name": "Brunei Dollar",
+        "currency_iso_code": "BND",
+        "alpha2_code": "BN",
+        "numeric_id": 96
+    },
+    "BGR": {
+        "country_name": "Bulgaria",
+        "currency_name": "Bulgarian Lev",
+        "currency_iso_code": "BGN",
+        "alpha2_code": "BG",
+        "numeric_id": 100
+    },
+    "BFA": {
+        "country_name": "Burkina Faso",
+        "currency_name": "CFA Franc (BCEAO)",
+        "currency_iso_code": "XOF",
+        "alpha2_code": "BF",
+        "numeric_id": 854
+    },
+    "BDI": {
+        "country_name": "Burundi",
+        "currency_name": "Burundi Franc",
+        "currency_iso_code": "BIF",
+        "alpha2_code": "BI",
+        "numeric_id": 108
+    },
+    "CPV": {
+        "country_name": "Cabo Verde",
+        "currency_name": "Cabo Verde Escudo",
+        "currency_iso_code": "CVE",
+        "alpha2_code": "CV",
+        "numeric_id": 132
+    },
+    "KHM": {
+        "country_name": "Cambodia",
+        "currency_name": "Riel",
+        "currency_iso_code": "KHR",
+        "alpha2_code": "KH",
+        "numeric_id": 116
+    },
+    "CMR": {
+        "country_name": "Cameroon",
+        "currency_name": "CFA Franc (BEAC)",
+        "currency_iso_code": "XAF",
+        "alpha2_code": "CM",
+        "numeric_id": 120
+    },
+    "CAN": {
+        "country_name": "Canada",
+        "currency_name": "Canadian Dollar",
+        "currency_iso_code": "CAD",
+        "alpha2_code": "CA",
+        "numeric_id": 124
+    },
+    "CYM": {
+        "country_name": "Cayman Islands",
+        "currency_name": "Cayman Islands Dollar",
+        "currency_iso_code": "KYD",
+        "alpha2_code": "KY",
+        "numeric_id": 136
+    },
+    "CAF": {
+        "country_name": "Central African Republic",
+        "currency_name": "CFA Franc (BEAC)",
+        "currency_iso_code": "XAF",
+        "alpha2_code": "CF",
+        "numeric_id": 140
+    },
+    "TCD": {
+        "country_name": "Chad",
+        "currency_name": "CFA Franc (BEAC)",
+        "currency_iso_code": "XAF",
+        "alpha2_code": "TD",
+        "numeric_id": 148
+    },
+    "CHL": {
+        "country_name": "Chile",
+        "currency_name": "Chilean Peso",
+        "currency_iso_code": "CLP",
+        "alpha2_code": "CL",
+        "numeric_id": 152
+    },
+    "CHN": {
+        "country_name": "China",
+        "currency_name": "Yuan Renminbi",
+        "currency_iso_code": "CNY",
+        "alpha2_code": "CN",
+        "numeric_id": 156
+    },
+    "CXR": {
+        "country_name": "Christmas Island",
+        "currency_name": "Australian Dollar",
+        "currency_iso_code": "AUD",
+        "alpha2_code": "CX",
+        "numeric_id": 162
+    },
+    "CCK": {
+        "country_name": "Cocos (Keeling) Islands",
+        "currency_name": "Australian Dollar",
+        "currency_iso_code": "AUD",
+        "alpha2_code": "CC",
+        "numeric_id": 166
+    },
+    "COL": {
+        "country_name": "Colombia",
+        "currency_name": "Colombian Peso",
+        "currency_iso_code": "COP",
+        "alpha2_code": "CO",
+        "numeric_id": 170
+    },
+    "COM": {
+        "country_name": "Comoros",
+        "currency_name": "Comoro Franc",
+        "currency_iso_code": "KMF",
+        "alpha2_code": "KM",
+        "numeric_id": 174
+    },
+    "COD": {
+        "country_name": "Congo (Democratic Republic of the)",
+        "currency_name": "Congolese Franc",
+        "currency_iso_code": "CDF",
+        "alpha2_code": "CD",
+        "numeric_id": 180
+    },
+    "COG": {
+        "country_name": "Congo",
+        "currency_name": "CFA Franc (BEAC)",
+        "currency_iso_code": "XAF",
+        "alpha2_code": "CG",
+        "numeric_id": 178
+    },
+    "COK": {
+        "country_name": "Cook Islands",
+        "currency_name": "New Zealand Dollar",
+        "currency_iso_code": "NZD",
+        "alpha2_code": "CK",
+        "numeric_id": 184
+    },
+    "CRI": {
+        "country_name": "Costa Rica",
+        "currency_name": "Costa Rican Colón",
+        "currency_iso_code": "CRC",
+        "alpha2_code": "CR",
+        "numeric_id": 188
+    },
+    "HRV": {
+        "country_name": "Croatia",
+        "currency_name": "Croatian Kuna",
+        "currency_iso_code": "HRK",
+        "alpha2_code": "HR",
+        "numeric_id": 191
+    },
+    "CUB": {
+        "country_name": "Cuba",
+        "currency_name": "Cuban Peso",
+        "currency_iso_code": "CUP",
+        "alpha2_code": "CU",
+        "numeric_id": 192
+    },
+    "CUW": {
+        "country_name": "Curaçao",
+        "currency_name": "Netherlands Antillean Guilder",
+        "currency_iso_code": "ANG",
+        "alpha2_code": "CW",
+        "numeric_id": 531
+    },
+    "CYP": {
+        "country_name": "Cyprus",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "CY",
+        "numeric_id": 196
+    },
+    "CZE": {
+        "country_name": "Czechia",
+        "currency_name": "Czech Koruna",
+        "currency_iso_code": "CZK",
+        "alpha2_code": "CZ",
+        "numeric_id": 203
+    },
+    "CIV": {
+        "country_name": "Côte d'Ivoire",
+        "currency_name": "CFA Franc (BCEAO)",
+        "currency_iso_code": "XOF",
+        "alpha2_code": "CI",
+        "numeric_id": 384
+    },
+    "DNK": {
+        "country_name": "Denmark",
+        "currency_name": "Danish Krone",
+        "currency_iso_code": "DKK",
+        "alpha2_code": "DK",
+        "numeric_id": 208
+    },
+    "DJI": {
+        "country_name": "Djibouti",
+        "currency_name": "Djibouti Franc",
+        "currency_iso_code": "DJF",
+        "alpha2_code": "DJ",
+        "numeric_id": 262
+    },
+    "DMA": {
+        "country_name": "Dominica",
+        "currency_name": "East Caribbean Dollar",
+        "currency_iso_code": "XCD",
+        "alpha2_code": "DM",
+        "numeric_id": 212
+    },
+    "DOM": {
+        "country_name": "Dominican Republic",
+        "currency_name": "Dominican Peso",
+        "currency_iso_code": "DOP",
+        "alpha2_code": "DO",
+        "numeric_id": 214
+    },
+    "ECU": {
+        "country_name": "Ecuador",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "EC",
+        "numeric_id": 218
+    },
+    "EGY": {
+        "country_name": "Egypt",
+        "currency_name": "Egyptian Pound",
+        "currency_iso_code": "EGP",
+        "alpha2_code": "EG",
+        "numeric_id": 818
+    },
+    "SLV": {
+        "country_name": "El Salvador",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "SV",
+        "numeric_id": 222
+    },
+    "GNQ": {
+        "country_name": "Equatorial Guinea",
+        "currency_name": "CFA Franc (BEAC)",
+        "currency_iso_code": "XAF",
+        "alpha2_code": "GQ",
+        "numeric_id": 226
+    },
+    "ERI": {
+        "country_name": "Eritrea",
+        "currency_name": "Nakfa",
+        "currency_iso_code": "ERN",
+        "alpha2_code": "ER",
+        "numeric_id": 232
+    },
+    "EST": {
+        "country_name": "Estonia",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "EE",
+        "numeric_id": 233
+    },
+    "SWZ": {
+        "country_name": "Eswatini",
+        "currency_name": "Lilangeni",
+        "currency_iso_code": "SZL",
+        "alpha2_code": "SZ",
+        "numeric_id": 748
+    },
+    "ETH": {
+        "country_name": "Ethiopia",
+        "currency_name": "Ethiopian Birr",
+        "currency_iso_code": "ETB",
+        "alpha2_code": "ET",
+        "numeric_id": 231
+    },
+    "FLK": {
+        "country_name": "Falkland Islands [Malvinas]",
+        "currency_name": "Falkland Islands Pound",
+        "currency_iso_code": "FKP",
+        "alpha2_code": "FK",
+        "numeric_id": 238
+    },
+    "FRO": {
+        "country_name": "Faroe Islands",
+        "currency_name": "Danish Krone",
+        "currency_iso_code": "DKK",
+        "alpha2_code": "FO",
+        "numeric_id": 234
+    },
+    "FJI": {
+        "country_name": "Fiji",
+        "currency_name": "Fiji Dollar",
+        "currency_iso_code": "FJD",
+        "alpha2_code": "FJ",
+        "numeric_id": 242
+    },
+    "FIN": {
+        "country_name": "Finland",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "FI",
+        "numeric_id": 246
+    },
+    "FRA": {
+        "country_name": "France",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "FR",
+        "numeric_id": 250
+    },
+    "GUF": {
+        "country_name": "French Guiana",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "GF",
+        "numeric_id": 254
+    },
+    "PYF": {
+        "country_name": "French Polynesia",
+        "currency_name": "CFP Franc",
+        "currency_iso_code": "XPF",
+        "alpha2_code": "PF",
+        "numeric_id": 258
+    },
+    "ATF": {
+        "country_name": "French Southern Territories",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "TF",
+        "numeric_id": 260
+    },
+    "GAB": {
+        "country_name": "Gabon",
+        "currency_name": "CFA Franc (BEAC)",
+        "currency_iso_code": "XAF",
+        "alpha2_code": "GA",
+        "numeric_id": 266
+    },
+    "GMB": {
+        "country_name": "Gambia",
+        "currency_name": "Dalasi",
+        "currency_iso_code": "GMD",
+        "alpha2_code": "GM",
+        "numeric_id": 270
+    },
+    "GEO": {
+        "country_name": "Georgia",
+        "currency_name": "Lari",
+        "currency_iso_code": "GEL",
+        "alpha2_code": "GE",
+        "numeric_id": 268
+    },
+    "DEU": {
+        "country_name": "Germany",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "DE",
+        "numeric_id": 276
+    },
+    "GHA": {
+        "country_name": "Ghana",
+        "currency_name": "Ghana Cedi",
+        "currency_iso_code": "GHS",
+        "alpha2_code": "GH",
+        "numeric_id": 288
+    },
+    "GIB": {
+        "country_name": "Gibraltar",
+        "currency_name": "Gibraltar Pound",
+        "currency_iso_code": "GIP",
+        "alpha2_code": "GI",
+        "numeric_id": 292
+    },
+    "GRC": {
+        "country_name": "Greece",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "GR",
+        "numeric_id": 300
+    },
+    "GRL": {
+        "country_name": "Greenland",
+        "currency_name": "Danish Krone",
+        "currency_iso_code": "DKK",
+        "alpha2_code": "GL",
+        "numeric_id": 304
+    },
+    "GRD": {
+        "country_name": "Grenada",
+        "currency_name": "East Caribbean Dollar",
+        "currency_iso_code": "XCD",
+        "alpha2_code": "GD",
+        "numeric_id": 308
+    },
+    "GLP": {
+        "country_name": "Guadeloupe",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "GP",
+        "numeric_id": 312
+    },
+    "GUM": {
+        "country_name": "Guam",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "GU",
+        "numeric_id": 316
+    },
+    "GTM": {
+        "country_name": "Guatemala",
+        "currency_name": "Quetzal",
+        "currency_iso_code": "GTQ",
+        "alpha2_code": "GT",
+        "numeric_id": 320
+    },
+    "GGY": {
+        "country_name": "Guernsey",
+        "currency_name": "Pound Sterling",
+        "currency_iso_code": "GBP",
+        "alpha2_code": "GG",
+        "numeric_id": 831
+    },
+    "GIN": {
+        "country_name": "Guinea",
+        "currency_name": "Guinea Franc",
+        "currency_iso_code": "GNF",
+        "alpha2_code": "GN",
+        "numeric_id": 324
+    },
+    "GNB": {
+        "country_name": "Guinea-Bissau",
+        "currency_name": "CFA Franc (BCEAO)",
+        "currency_iso_code": "XOF",
+        "alpha2_code": "GW",
+        "numeric_id": 624
+    },
+    "GUY": {
+        "country_name": "Guyana",
+        "currency_name": "Guyana Dollar",
+        "currency_iso_code": "GYD",
+        "alpha2_code": "GY",
+        "numeric_id": 328
+    },
+    "HTI": {
+        "country_name": "Haiti",
+        "currency_name": "Gourde",
+        "currency_iso_code": "HTG",
+        "alpha2_code": "HT",
+        "numeric_id": 332
+    },
+    "HMD": {
+        "country_name": "Heard Island and McDonald Islands",
+        "currency_name": null,
+        "currency_iso_code": null,
+        "alpha2_code": "HM",
+        "numeric_id": 334
+    },
+    "VAT": {
+        "country_name": "Holy See",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "VA",
+        "numeric_id": 336
+    },
+    "HND": {
+        "country_name": "Honduras",
+        "currency_name": "Lempira",
+        "currency_iso_code": "HNL",
+        "alpha2_code": "HN",
+        "numeric_id": 340
+    },
+    "HKG": {
+        "country_name": "Hong Kong",
+        "currency_name": "Hong Kong Dollar",
+        "currency_iso_code": "HKD",
+        "alpha2_code": "HK",
+        "numeric_id": 344
+    },
+    "HUN": {
+        "country_name": "Hungary",
+        "currency_name": "Forint",
+        "currency_iso_code": "HUF",
+        "alpha2_code": "HU",
+        "numeric_id": 348
+    },
+    "ISL": {
+        "country_name": "Iceland",
+        "currency_name": "Iceland Krona",
+        "currency_iso_code": "ISK",
+        "alpha2_code": "IS",
+        "numeric_id": 352
+    },
+    "IND": {
+        "country_name": "India",
+        "currency_name": "Indian Rupee",
+        "currency_iso_code": "INR",
+        "alpha2_code": "IN",
+        "numeric_id": 356
+    },
+    "IDN": {
+        "country_name": "Indonesia",
+        "currency_name": "Rupiah",
+        "currency_iso_code": "IDR",
+        "alpha2_code": "ID",
+        "numeric_id": 360
+    },
+    "IRN": {
+        "country_name": "Iran (Islamic Republic of)",
+        "currency_name": "Iranian Rial",
+        "currency_iso_code": "IRR",
+        "alpha2_code": "IR",
+        "numeric_id": 364
+    },
+    "IRQ": {
+        "country_name": "Iraq",
+        "currency_name": "Iraqi Dinar",
+        "currency_iso_code": "IQD",
+        "alpha2_code": "IQ",
+        "numeric_id": 368
+    },
+    "IRL": {
+        "country_name": "Ireland",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "IE",
+        "numeric_id": 372
+    },
+    "IMN": {
+        "country_name": "Isle of Man",
+        "currency_name": "Pound Sterling",
+        "currency_iso_code": "GBP",
+        "alpha2_code": "IM",
+        "numeric_id": 833
+    },
+    "ISR": {
+        "country_name": "Israel",
+        "currency_name": "New Israeli Sheqel",
+        "currency_iso_code": "ILS",
+        "alpha2_code": "IL",
+        "numeric_id": 376
+    },
+    "ITA": {
+        "country_name": "Italy",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "IT",
+        "numeric_id": 380
+    },
+    "JAM": {
+        "country_name": "Jamaica",
+        "currency_name": "Jamaican Dollar",
+        "currency_iso_code": "JMD",
+        "alpha2_code": "JM",
+        "numeric_id": 388
+    },
+    "JPN": {
+        "country_name": "Japan",
+        "currency_name": "Yen",
+        "currency_iso_code": "JPY",
+        "alpha2_code": "JP",
+        "numeric_id": 392
+    },
+    "JEY": {
+        "country_name": "Jersey",
+        "currency_name": "Pound Sterling",
+        "currency_iso_code": "GBP",
+        "alpha2_code": "JE",
+        "numeric_id": 832
+    },
+    "JOR": {
+        "country_name": "Jordan",
+        "currency_name": "Jordanian Dinar",
+        "currency_iso_code": "JOD",
+        "alpha2_code": "JO",
+        "numeric_id": 400
+    },
+    "KAZ": {
+        "country_name": "Kazakhstan",
+        "currency_name": "Tenge",
+        "currency_iso_code": "KZT",
+        "alpha2_code": "KZ",
+        "numeric_id": 398
+    },
+    "KEN": {
+        "country_name": "Kenya",
+        "currency_name": "Kenyan Shilling",
+        "currency_iso_code": "KES",
+        "alpha2_code": "KE",
+        "numeric_id": 404
+    },
+    "KIR": {
+        "country_name": "Kiribati",
+        "currency_name": "Australian Dollar",
+        "currency_iso_code": "AUD",
+        "alpha2_code": "KI",
+        "numeric_id": 296
+    },
+    "PRK": {
+        "country_name": "Korea (the Democratic People's Republic of)",
+        "currency_name": "North Korean Won",
+        "currency_iso_code": "KPW",
+        "alpha2_code": "KP",
+        "numeric_id": 408
+    },
+    "KOR": {
+        "country_name": "Korea (the Republic of)",
+        "currency_name": "Won",
+        "currency_iso_code": "KRW",
+        "alpha2_code": "KR",
+        "numeric_id": 410
+    },
+    "KWT": {
+        "country_name": "Kuwait",
+        "currency_name": "Kuwaiti Dinar",
+        "currency_iso_code": "KWD",
+        "alpha2_code": "KW",
+        "numeric_id": 414
+    },
+    "KGZ": {
+        "country_name": "Kyrgyzstan",
+        "currency_name": "Som",
+        "currency_iso_code": "KGS",
+        "alpha2_code": "KG",
+        "numeric_id": 417
+    },
+    "LAO": {
+        "country_name": "Lao People's Democratic Republic",
+        "currency_name": "Kip",
+        "currency_iso_code": "LAK",
+        "alpha2_code": "LA",
+        "numeric_id": 418
+    },
+    "LVA": {
+        "country_name": "Latvia",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "LV",
+        "numeric_id": 428
+    },
+    "LBN": {
+        "country_name": "Lebanon",
+        "currency_name": "Lebanese Pound",
+        "currency_iso_code": "LBP",
+        "alpha2_code": "LB",
+        "numeric_id": 422
+    },
+    "LSO": {
+        "country_name": "Lesotho",
+        "currency_name": "Loti",
+        "currency_iso_code": "LSL",
+        "alpha2_code": "LS",
+        "numeric_id": 426
+    },
+    "LBR": {
+        "country_name": "Liberia",
+        "currency_name": "Liberian Dollar",
+        "currency_iso_code": "LRD",
+        "alpha2_code": "LR",
+        "numeric_id": 430
+    },
+    "LBY": {
+        "country_name": "Libya",
+        "currency_name": "Libyan Dinar",
+        "currency_iso_code": "LYD",
+        "alpha2_code": "LY",
+        "numeric_id": 434
+    },
+    "LIE": {
+        "country_name": "Liechtenstein",
+        "currency_name": "Swiss Franc",
+        "currency_iso_code": "CHF",
+        "alpha2_code": "LI",
+        "numeric_id": 438
+    },
+    "LTU": {
+        "country_name": "Lithuania",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "LT",
+        "numeric_id": 440
+    },
+    "LUX": {
+        "country_name": "Luxembourg",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "LU",
+        "numeric_id": 442
+    },
+    "MKD": {
+        "country_name": "Republic of North Macedonia",
+        "currency_name": "Denar",
+        "currency_iso_code": "MKD",
+        "alpha2_code": "MK",
+        "numeric_id": 807
+    },
+    "MDG": {
+        "country_name": "Madagascar",
+        "currency_name": "Malagasy Ariary",
+        "currency_iso_code": "MGA",
+        "alpha2_code": "MG",
+        "numeric_id": 450
+    },
+    "MWI": {
+        "country_name": "Malawi",
+        "currency_name": "Malawi Kwacha",
+        "currency_iso_code": "MWK",
+        "alpha2_code": "MW",
+        "numeric_id": 454
+    },
+    "MYS": {
+        "country_name": "Malaysia",
+        "currency_name": "Malaysian Ringgit",
+        "currency_iso_code": "MYR",
+        "alpha2_code": "MY",
+        "numeric_id": 458
+    },
+    "MDV": {
+        "country_name": "Maldives",
+        "currency_name": "Rufiyaa",
+        "currency_iso_code": "MVR",
+        "alpha2_code": "MV",
+        "numeric_id": 462
+    },
+    "MLI": {
+        "country_name": "Mali",
+        "currency_name": "CFA Franc (BCEAO)",
+        "currency_iso_code": "XOF",
+        "alpha2_code": "ML",
+        "numeric_id": 466
+    },
+    "MLT": {
+        "country_name": "Malta",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "MT",
+        "numeric_id": 470
+    },
+    "MHL": {
+        "country_name": "Marshall Islands",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "MH",
+        "numeric_id": 584
+    },
+    "MTQ": {
+        "country_name": "Martinique",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "MQ",
+        "numeric_id": 474
+    },
+    "MRT": {
+        "country_name": "Mauritania",
+        "currency_name": "Ouguiya",
+        "currency_iso_code": "MRO",
+        "alpha2_code": "MR",
+        "numeric_id": 478
+    },
+    "MUS": {
+        "country_name": "Mauritius",
+        "currency_name": "Mauritius Rupee",
+        "currency_iso_code": "MUR",
+        "alpha2_code": "MU",
+        "numeric_id": 480
+    },
+    "MYT": {
+        "country_name": "Mayotte",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "YT",
+        "numeric_id": 175
+    },
+    "MEX": {
+        "country_name": "Mexico",
+        "currency_name": "Mexican Peso",
+        "currency_iso_code": "MXN",
+        "alpha2_code": "MX",
+        "numeric_id": 484
+    },
+    "FSM": {
+        "country_name": "Micronesia (Federated States of)",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "FM",
+        "numeric_id": 583
+    },
+    "MDA": {
+        "country_name": "Moldova (Republic of)",
+        "currency_name": "Moldovan Leu",
+        "currency_iso_code": "MDL",
+        "alpha2_code": "MD",
+        "numeric_id": 498
+    },
+    "MNG": {
+        "country_name": "Mongolia",
+        "currency_name": "Tugrik",
+        "currency_iso_code": "MNT",
+        "alpha2_code": "MN",
+        "numeric_id": 496
+    },
+    "MNE": {
+        "country_name": "Montenegro",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "ME",
+        "numeric_id": 499
+    },
+    "MSR": {
+        "country_name": "Montserrat",
+        "currency_name": "East Caribbean Dollar",
+        "currency_iso_code": "XCD",
+        "alpha2_code": "MS",
+        "numeric_id": 500
+    },
+    "MAR": {
+        "country_name": "Morocco",
+        "currency_name": "Moroccan Dirham",
+        "currency_iso_code": "MAD",
+        "alpha2_code": "MA",
+        "numeric_id": 504
+    },
+    "MOZ": {
+        "country_name": "Mozambique",
+        "currency_name": "Metical",
+        "currency_iso_code": "MZN",
+        "alpha2_code": "MZ",
+        "numeric_id": 508
+    },
+    "MMR": {
+        "country_name": "Myanmar",
+        "currency_name": "Kyat",
+        "currency_iso_code": "MMK",
+        "alpha2_code": "MM",
+        "numeric_id": 104
+    },
+    "NAM": {
+        "country_name": "Namibia",
+        "currency_name": "Namibian Dollar",
+        "currency_iso_code": "NAD",
+        "alpha2_code": "NA",
+        "numeric_id": 516
+    },
+    "NRU": {
+        "country_name": "Nauru",
+        "currency_name": "Australian Dollar",
+        "currency_iso_code": "AUD",
+        "alpha2_code": "NR",
+        "numeric_id": 520
+    },
+    "NPL": {
+        "country_name": "Nepal",
+        "currency_name": "Nepalese Rupee",
+        "currency_iso_code": "NPR",
+        "alpha2_code": "NP",
+        "numeric_id": 524
+    },
+    "NLD": {
+        "country_name": "Netherlands",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "NL",
+        "numeric_id": 528
+    },
+    "NCL": {
+        "country_name": "New Caledonia",
+        "currency_name": "CFP Franc",
+        "currency_iso_code": "XPF",
+        "alpha2_code": "NC",
+        "numeric_id": 540
+    },
+    "NZL": {
+        "country_name": "New Zealand",
+        "currency_name": "New Zealand Dollar",
+        "currency_iso_code": "NZD",
+        "alpha2_code": "NZ",
+        "numeric_id": 554
+    },
+    "NIC": {
+        "country_name": "Nicaragua",
+        "currency_name": "Córdoba Oro",
+        "currency_iso_code": "NIO",
+        "alpha2_code": "NI",
+        "numeric_id": 558
+    },
+    "NER": {
+        "country_name": "Niger",
+        "currency_name": "CFA Franc (BCEAO)",
+        "currency_iso_code": "XOF",
+        "alpha2_code": "NE",
+        "numeric_id": 562
+    },
+    "NGA": {
+        "country_name": "Nigeria",
+        "currency_name": "Naira",
+        "currency_iso_code": "NGN",
+        "alpha2_code": "NG",
+        "numeric_id": 566
+    },
+    "NIU": {
+        "country_name": "Niue",
+        "currency_name": "New Zealand Dollar",
+        "currency_iso_code": "NZD",
+        "alpha2_code": "NU",
+        "numeric_id": 570
+    },
+    "MNP": {
+        "country_name": "Northern Mariana Islands",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "MP",
+        "numeric_id": 580
+    },
+    "NOR": {
+        "country_name": "Norway",
+        "currency_name": "Norwegian Krone",
+        "currency_iso_code": "NOK",
+        "alpha2_code": "NO",
+        "numeric_id": 578
+    },
+    "OMN": {
+        "country_name": "Oman",
+        "currency_name": "Rial Omani",
+        "currency_iso_code": "OMR",
+        "alpha2_code": "OM",
+        "numeric_id": 512
+    },
+    "PAK": {
+        "country_name": "Pakistan",
+        "currency_name": "Pakistan Rupee",
+        "currency_iso_code": "PKR",
+        "alpha2_code": "PK",
+        "numeric_id": 586
+    },
+    "PLW": {
+        "country_name": "Palau",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "PW",
+        "numeric_id": 585
+    },
+    "PAN": {
+        "country_name": "Panama",
+        "currency_name": "Balboa",
+        "currency_iso_code": "PAB",
+        "alpha2_code": "PA",
+        "numeric_id": 591
+    },
+    "PNG": {
+        "country_name": "Papua New Guinea",
+        "currency_name": "Kina",
+        "currency_iso_code": "PGK",
+        "alpha2_code": "PG",
+        "numeric_id": 598
+    },
+    "PRY": {
+        "country_name": "Paraguay",
+        "currency_name": "Guaraní",
+        "currency_iso_code": "PYG",
+        "alpha2_code": "PY",
+        "numeric_id": 600
+    },
+    "PER": {
+        "country_name": "Peru",
+        "currency_name": "Sol",
+        "currency_iso_code": "PEN",
+        "alpha2_code": "PE",
+        "numeric_id": 604
+    },
+    "PHL": {
+        "country_name": "Philippines",
+        "currency_name": "Philippine Peso",
+        "currency_iso_code": "PHP",
+        "alpha2_code": "PH",
+        "numeric_id": 608
+    },
+    "PCN": {
+        "country_name": "Pitcairn",
+        "currency_name": "New Zealand Dollar",
+        "currency_iso_code": "NZD",
+        "alpha2_code": "PN",
+        "numeric_id": 612
+    },
+    "POL": {
+        "country_name": "Poland",
+        "currency_name": "Zloty",
+        "currency_iso_code": "PLN",
+        "alpha2_code": "PL",
+        "numeric_id": 616
+    },
+    "PRT": {
+        "country_name": "Portugal",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "PT",
+        "numeric_id": 620
+    },
+    "PRI": {
+        "country_name": "Puerto Rico",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "PR",
+        "numeric_id": 630
+    },
+    "QAT": {
+        "country_name": "Qatar",
+        "currency_name": "Qatari Rial",
+        "currency_iso_code": "QAR",
+        "alpha2_code": "QA",
+        "numeric_id": 634
+    },
+    "REU": {
+        "country_name": "Réunion",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "RE",
+        "numeric_id": 638
+    },
+    "ROU": {
+        "country_name": "Romania",
+        "currency_name": "Romanian Leu",
+        "currency_iso_code": "RON",
+        "alpha2_code": "RO",
+        "numeric_id": 642
+    },
+    "RUS": {
+        "country_name": "Russian Federation",
+        "currency_name": "Russian Ruble",
+        "currency_iso_code": "RUB",
+        "alpha2_code": "RU",
+        "numeric_id": 643
+    },
+    "RWA": {
+        "country_name": "Rwanda",
+        "currency_name": "Rwanda Franc",
+        "currency_iso_code": "RWF",
+        "alpha2_code": "RW",
+        "numeric_id": 646
+    },
+    "BLM": {
+        "country_name": "Saint Barthélemy",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "BL",
+        "numeric_id": 652
+    },
+    "SHP": {
+        "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "currency_name": "Saint Helena Pound",
+        "currency_iso_code": "SHP",
+        "alpha2_code": "SH",
+        "numeric_id": 654
+    },
+    "KNA": {
+        "country_name": "Saint Kitts and Nevis",
+        "currency_name": "East Caribbean Dollar",
+        "currency_iso_code": "XCD",
+        "alpha2_code": "KN",
+        "numeric_id": 659
+    },
+    "LCA": {
+        "country_name": "Saint Lucia",
+        "currency_name": "East Caribbean Dollar",
+        "currency_iso_code": "XCD",
+        "alpha2_code": "LC",
+        "numeric_id": 662
+    },
+    "MAF": {
+        "country_name": "Saint Martin (French part)",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "MF",
+        "numeric_id": 663
+    },
+    "SPM": {
+        "country_name": "Saint Pierre and Miquelon",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "PM",
+        "numeric_id": 666
+    },
+    "VCT": {
+        "country_name": "Saint Vincent and the Grenadines",
+        "currency_name": "East Caribbean Dollar",
+        "currency_iso_code": "XCD",
+        "alpha2_code": "VC",
+        "numeric_id": 670
+    },
+    "WSM": {
+        "country_name": "Samoa",
+        "currency_name": "Tala",
+        "currency_iso_code": "WST",
+        "alpha2_code": "WS",
+        "numeric_id": 882
+    },
+    "STP": {
+        "country_name": "Sao Tome and Principe",
+        "currency_name": "Dobra",
+        "currency_iso_code": "STD",
+        "alpha2_code": "ST",
+        "numeric_id": 678
+    },
+    "SAU": {
+        "country_name": "Saudi Arabia",
+        "currency_name": "Saudi Riyal",
+        "currency_iso_code": "SAR",
+        "alpha2_code": "SA",
+        "numeric_id": 682
+    },
+    "SEN": {
+        "country_name": "Senegal",
+        "currency_name": "CFA Franc (BCEAO)",
+        "currency_iso_code": "XOF",
+        "alpha2_code": "SN",
+        "numeric_id": 686
+    },
+    "SRB": {
+        "country_name": "Serbia",
+        "currency_name": "Serbian Dinar",
+        "currency_iso_code": "RSD",
+        "alpha2_code": "RS",
+        "numeric_id": 688
+    },
+    "SYC": {
+        "country_name": "Seychelles",
+        "currency_name": "Seychelles Rupee",
+        "currency_iso_code": "SCR",
+        "alpha2_code": "SC",
+        "numeric_id": 690
+    },
+    "SLE": {
+        "country_name": "Sierra Leone",
+        "currency_name": "Leone",
+        "currency_iso_code": "SLL",
+        "alpha2_code": "SL",
+        "numeric_id": 694
+    },
+    "SGP": {
+        "country_name": "Singapore",
+        "currency_name": "Singapore Dollar",
+        "currency_iso_code": "SGD",
+        "alpha2_code": "SG",
+        "numeric_id": 702
+    },
+    "SXM": {
+        "country_name": "Sint Maarten (Dutch part)",
+        "currency_name": "Netherlands Antillian Guilder",
+        "currency_iso_code": "ANG",
+        "alpha2_code": "SX",
+        "numeric_id": 534
+    },
+    "SVK": {
+        "country_name": "Slovakia",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "SK",
+        "numeric_id": 703
+    },
+    "SVN": {
+        "country_name": "Slovenia",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "SI",
+        "numeric_id": 705
+    },
+    "SLB": {
+        "country_name": "Solomon Islands",
+        "currency_name": "Solomon Islands Dollar",
+        "currency_iso_code": "SBD",
+        "alpha2_code": "SB",
+        "numeric_id": 90
+    },
+    "SOM": {
+        "country_name": "Somalia",
+        "currency_name": "Somali Shilling",
+        "currency_iso_code": "SOS",
+        "alpha2_code": "SO",
+        "numeric_id": 706
+    },
+    "ZAF": {
+        "country_name": "South Africa",
+        "currency_name": "Rand",
+        "currency_iso_code": "ZAR",
+        "alpha2_code": "ZA",
+        "numeric_id": 710
+    },
+    "SSD": {
+        "country_name": "South Sudan",
+        "currency_name": "South Sudanese Pound",
+        "currency_iso_code": "SSP",
+        "alpha2_code": "SS",
+        "numeric_id": 728
+    },
+    "ESP": {
+        "country_name": "Spain",
+        "currency_name": "Euro",
+        "currency_iso_code": "EUR",
+        "alpha2_code": "ES",
+        "numeric_id": 724
+    },
+    "LKA": {
+        "country_name": "Sri Lanka",
+        "currency_name": "Sri Lanka Rupee",
+        "currency_iso_code": "LKR",
+        "alpha2_code": "LK",
+        "numeric_id": 144
+    },
+    "SDN": {
+        "country_name": "Sudan",
+        "currency_name": "Sudanese Pound",
+        "currency_iso_code": "SDG",
+        "alpha2_code": "SD",
+        "numeric_id": 729
+    },
+    "SUR": {
+        "country_name": "Suriname",
+        "currency_name": "Suriname Dollar",
+        "currency_iso_code": "SRD",
+        "alpha2_code": "SR",
+        "numeric_id": 740
+    },
+    "SWE": {
+        "country_name": "Sweden",
+        "currency_name": "Swedish Krona",
+        "currency_iso_code": "SEK",
+        "alpha2_code": "SE",
+        "numeric_id": 752
+    },
+    "CHE": {
+        "country_name": "Switzerland",
+        "currency_name": "Swiss Franc",
+        "currency_iso_code": "CHF",
+        "alpha2_code": "CH",
+        "numeric_id": 756
+    },
+    "SYR": {
+        "country_name": "Syrian Arab Republic",
+        "currency_name": "Syrian Pound",
+        "currency_iso_code": "SYP",
+        "alpha2_code": "SY",
+        "numeric_id": 760
+    },
+    "TJK": {
+        "country_name": "Tajikistan",
+        "currency_name": "Somoni",
+        "currency_iso_code": "TJS",
+        "alpha2_code": "TJ",
+        "numeric_id": 762
+    },
+    "TZA": {
+        "country_name": "Tanzania, United Republic of",
+        "currency_name": "Tanzanian Shilling",
+        "currency_iso_code": "TZS",
+        "alpha2_code": "TZ",
+        "numeric_id": 834
+    },
+    "THA": {
+        "country_name": "Thailand",
+        "currency_name": "Baht",
+        "currency_iso_code": "THB",
+        "alpha2_code": "TH",
+        "numeric_id": 764
+    },
+    "TLS": {
+        "country_name": "Timor-Leste",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "TL",
+        "numeric_id": 626
+    },
+    "TGO": {
+        "country_name": "Togo",
+        "currency_name": "CFA Franc (BCEAO)",
+        "currency_iso_code": "XOF",
+        "alpha2_code": "TG",
+        "numeric_id": 768
+    },
+    "TKL": {
+        "country_name": "Tokelau",
+        "currency_name": "New Zealand Dollar",
+        "currency_iso_code": "NZD",
+        "alpha2_code": "TK",
+        "numeric_id": 772
+    },
+    "TON": {
+        "country_name": "Tonga",
+        "currency_name": "Pa'anga",
+        "currency_iso_code": "TOP",
+        "alpha2_code": "TO",
+        "numeric_id": 776
+    },
+    "TTO": {
+        "country_name": "Trinidad and Tobago",
+        "currency_name": "Trinidad and Tobago Dollar",
+        "currency_iso_code": "TTD",
+        "alpha2_code": "TT",
+        "numeric_id": 780
+    },
+    "TUN": {
+        "country_name": "Tunisia",
+        "currency_name": "Tunisian Dinar",
+        "currency_iso_code": "TND",
+        "alpha2_code": "TN",
+        "numeric_id": 788
+    },
+    "TUR": {
+        "country_name": "Turkey",
+        "currency_name": "Turkish Lira",
+        "currency_iso_code": "TRY",
+        "alpha2_code": "TR",
+        "numeric_id": 792
+    },
+    "TKM": {
+        "country_name": "Turkmenistan",
+        "currency_name": "Turkmenistan New Manat",
+        "currency_iso_code": "TMT",
+        "alpha2_code": "TM",
+        "numeric_id": 795
+    },
+    "TCA": {
+        "country_name": "Turks and Caicos Islands",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "TC",
+        "numeric_id": 796
+    },
+    "TUV": {
+        "country_name": "Tuvalu",
+        "currency_name": "Australian Dollar",
+        "currency_iso_code": "AUD",
+        "alpha2_code": "TV",
+        "numeric_id": 798
+    },
+    "UGA": {
+        "country_name": "Uganda",
+        "currency_name": "Uganda Shilling",
+        "currency_iso_code": "UGX",
+        "alpha2_code": "UG",
+        "numeric_id": 800
+    },
+    "UKR": {
+        "country_name": "Ukraine",
+        "currency_name": "Hryvnia",
+        "currency_iso_code": "UAH",
+        "alpha2_code": "UA",
+        "numeric_id": 804
+    },
+    "ARE": {
+        "country_name": "United Arab Emirates",
+        "currency_name": "UAE Dirham",
+        "currency_iso_code": "AED",
+        "alpha2_code": "AE",
+        "numeric_id": 784
+    },
+    "GBR": {
+        "country_name": "United Kingdom of Great Britain and Northern Ireland",
+        "currency_name": "Pound Sterling",
+        "currency_iso_code": "GBP",
+        "alpha2_code": "GB",
+        "numeric_id": 826
+    },
+    "USA": {
+        "country_name": "United States of America",
+        "currency_name": "US Dollar",
+        "currency_iso_code": "USD",
+        "alpha2_code": "US",
+        "numeric_id": 840
+    },
+    "URY": {
+        "country_name": "Uruguay",
+        "currency_name": "Peso Uruguayo",
+        "currency_iso_code": "UYU",
+        "alpha2_code": "UY",
+        "numeric_id": 858
+    },
+    "UZB": {
+        "country_name": "Uzbekistan",
+        "currency_name": "Uzbekistan Sum",
+        "currency_iso_code": "UZS",
+        "alpha2_code": "UZ",
+        "numeric_id": 860
+    },
+    "VUT": {
+        "country_name": "Vanuatu",
+        "currency_name": "Vatu",
+        "currency_iso_code": "VUV",
+        "alpha2_code": "VU",
+        "numeric_id": 548
+    },
+    "VEN": {
+        "country_name": "Venezuela (Bolivarian Republic of)",
+        "currency_name": "Bolívar",
+        "currency_iso_code": "VEF",
+        "alpha2_code": "VE",
+        "numeric_id": 862
+    },
+    "VNM": {
+        "country_name": "Viet Nam",
+        "currency_name": "Dong",
+        "currency_iso_code": "VND",
+        "alpha2_code": "VN",
+        "numeric_id": 704
+    },
+    "WLF": {
+        "country_name": "Wallis and Futuna",
+        "currency_name": "CFP Franc",
+        "currency_iso_code": "XPF",
+        "alpha2_code": "WF",
+        "numeric_id": 876
+    },
+    "ESH": {
+        "country_name": "Western Sahara",
+        "currency_name": "Moroccan Dirham",
+        "currency_iso_code": "MAD",
+        "alpha2_code": "EH",
+        "numeric_id": 732
+    },
+    "YEM": {
+        "country_name": "Yemen",
+        "currency_name": "Yemeni Rial",
+        "currency_iso_code": "YER",
+        "alpha2_code": "YE",
+        "numeric_id": 887
+    },
+    "ZMB": {
+        "country_name": "Zambia",
+        "currency_name": "Zambian Kwacha",
+        "currency_iso_code": "ZMW",
+        "alpha2_code": "ZM",
+        "numeric_id": 894
+    },
+    "ZWE": {
+        "country_name": "Zimbabwe",
+        "currency_name": "Zimbabwe Dollar",
+        "currency_iso_code": "ZWL",
+        "alpha2_code": "ZW",
+        "numeric_id": 716
+    }
+}

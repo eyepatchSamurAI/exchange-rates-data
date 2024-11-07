@@ -1,0 +1,284 @@
+{
+    "timestamp": "2024-11-04",
+    "currencies": {
+        "USD": {
+            "country_name": "United States of America",
+            "currency_name": "US Dollar",
+            "currency_iso_code": "USD",
+            "alpha2_code": "US",
+            "numeric_id": 840,
+            "exchange_rate": 1.0904,
+            "country_code": "USA"
+        },
+        "AUD": {
+            "country_name": "Tuvalu",
+            "currency_name": "Australian Dollar",
+            "currency_iso_code": "AUD",
+            "alpha2_code": "TV",
+            "numeric_id": 798,
+            "exchange_rate": 1.6516,
+            "country_code": "TUV"
+        },
+        "BRL": {
+            "country_name": "Brazil",
+            "currency_name": "Brazilian Real",
+            "currency_iso_code": "BRL",
+            "alpha2_code": "BR",
+            "numeric_id": 76,
+            "exchange_rate": 6.3344,
+            "country_code": "BRA"
+        },
+        "BGN": {
+            "country_name": "Bulgaria",
+            "currency_name": "Bulgarian Lev",
+            "currency_iso_code": "BGN",
+            "alpha2_code": "BG",
+            "numeric_id": 100,
+            "exchange_rate": 1.9558,
+            "country_code": "BGR"
+        },
+        "CAD": {
+            "country_name": "Canada",
+            "currency_name": "Canadian Dollar",
+            "currency_iso_code": "CAD",
+            "alpha2_code": "CA",
+            "numeric_id": 124,
+            "exchange_rate": 1.5155,
+            "country_code": "CAN"
+        },
+        "CNY": {
+            "country_name": "China",
+            "currency_name": "Yuan Renminbi",
+            "currency_iso_code": "CNY",
+            "alpha2_code": "CN",
+            "numeric_id": 156,
+            "exchange_rate": 7.7363,
+            "country_code": "CHN"
+        },
+        "NZD": {
+            "country_name": "Tokelau",
+            "currency_name": "New Zealand Dollar",
+            "currency_iso_code": "NZD",
+            "alpha2_code": "TK",
+            "numeric_id": 772,
+            "exchange_rate": 1.8196,
+            "country_code": "TKL"
+        },
+        "CZK": {
+            "country_name": "Czechia",
+            "currency_name": "Czech Koruna",
+            "currency_iso_code": "CZK",
+            "alpha2_code": "CZ",
+            "numeric_id": 203,
+            "exchange_rate": 25.288,
+            "country_code": "CZE"
+        },
+        "DKK": {
+            "country_name": "Greenland",
+            "currency_name": "Danish Krone",
+            "currency_iso_code": "DKK",
+            "alpha2_code": "GL",
+            "numeric_id": 304,
+            "exchange_rate": 7.4578,
+            "country_code": "GRL"
+        },
+        "GBP": {
+            "country_name": "United Kingdom of Great Britain and Northern Ireland",
+            "currency_name": "Pound Sterling",
+            "currency_iso_code": "GBP",
+            "alpha2_code": "GB",
+            "numeric_id": 826,
+            "exchange_rate": 0.84063,
+            "country_code": "GBR"
+        },
+        "HKD": {
+            "country_name": "Hong Kong",
+            "currency_name": "Hong Kong Dollar",
+            "currency_iso_code": "HKD",
+            "alpha2_code": "HK",
+            "numeric_id": 344,
+            "exchange_rate": 8.4761,
+            "country_code": "HKG"
+        },
+        "HUF": {
+            "country_name": "Hungary",
+            "currency_name": "Forint",
+            "currency_iso_code": "HUF",
+            "alpha2_code": "HU",
+            "numeric_id": 348,
+            "exchange_rate": 407.83,
+            "country_code": "HUN"
+        },
+        "ISK": {
+            "country_name": "Iceland",
+            "currency_name": "Iceland Krona",
+            "currency_iso_code": "ISK",
+            "alpha2_code": "IS",
+            "numeric_id": 352,
+            "exchange_rate": 148.9,
+            "country_code": "ISL"
+        },
+        "INR": {
+            "country_name": "India",
+            "currency_name": "Indian Rupee",
+            "currency_iso_code": "INR",
+            "alpha2_code": "IN",
+            "numeric_id": 356,
+            "exchange_rate": 91.718,
+            "country_code": "IND"
+        },
+        "IDR": {
+            "country_name": "Indonesia",
+            "currency_name": "Rupiah",
+            "currency_iso_code": "IDR",
+            "alpha2_code": "ID",
+            "numeric_id": 360,
+            "exchange_rate": 17190.86,
+            "country_code": "IDN"
+        },
+        "ILS": {
+            "country_name": "Israel",
+            "currency_name": "New Israeli Sheqel",
+            "currency_iso_code": "ILS",
+            "alpha2_code": "IL",
+            "numeric_id": 376,
+            "exchange_rate": 4.0879,
+            "country_code": "ISR"
+        },
+        "JPY": {
+            "country_name": "Japan",
+            "currency_name": "Yen",
+            "currency_iso_code": "JPY",
+            "alpha2_code": "JP",
+            "numeric_id": 392,
+            "exchange_rate": 165.47,
+            "country_code": "JPN"
+        },
+        "KRW": {
+            "country_name": "Korea (the Republic of)",
+            "currency_name": "Won",
+            "currency_iso_code": "KRW",
+            "alpha2_code": "KR",
+            "numeric_id": 410,
+            "exchange_rate": 1497.97,
+            "country_code": "KOR"
+        },
+        "CHF": {
+            "country_name": "Switzerland",
+            "currency_name": "Swiss Franc",
+            "currency_iso_code": "CHF",
+            "alpha2_code": "CH",
+            "numeric_id": 756,
+            "exchange_rate": 0.941,
+            "country_code": "CHE"
+        },
+        "MYR": {
+            "country_name": "Malaysia",
+            "currency_name": "Malaysian Ringgit",
+            "currency_iso_code": "MYR",
+            "alpha2_code": "MY",
+            "numeric_id": 458,
+            "exchange_rate": 4.7678,
+            "country_code": "MYS"
+        },
+        "MXN": {
+            "country_name": "Mexico",
+            "currency_name": "Mexican Peso",
+            "currency_iso_code": "MXN",
+            "alpha2_code": "MX",
+            "numeric_id": 484,
+            "exchange_rate": 21.9187,
+            "country_code": "MEX"
+        },
+        "NOK": {
+            "country_name": "Norway",
+            "currency_name": "Norwegian Krone",
+            "currency_iso_code": "NOK",
+            "alpha2_code": "NO",
+            "numeric_id": 578,
+            "exchange_rate": 11.9465,
+            "country_code": "NOR"
+        },
+        "PHP": {
+            "country_name": "Philippines",
+            "currency_name": "Philippine Peso",
+            "currency_iso_code": "PHP",
+            "alpha2_code": "PH",
+            "numeric_id": 608,
+            "exchange_rate": 63.762,
+            "country_code": "PHL"
+        },
+        "PLN": {
+            "country_name": "Poland",
+            "currency_name": "Zloty",
+            "currency_iso_code": "PLN",
+            "alpha2_code": "PL",
+            "numeric_id": 616,
+            "exchange_rate": 4.3423,
+            "country_code": "POL"
+        },
+        "RON": {
+            "country_name": "Romania",
+            "currency_name": "Romanian Leu",
+            "currency_iso_code": "RON",
+            "alpha2_code": "RO",
+            "numeric_id": 642,
+            "exchange_rate": 4.975,
+            "country_code": "ROU"
+        },
+        "SGD": {
+            "country_name": "Singapore",
+            "currency_name": "Singapore Dollar",
+            "currency_iso_code": "SGD",
+            "alpha2_code": "SG",
+            "numeric_id": 702,
+            "exchange_rate": 1.4356,
+            "country_code": "SGP"
+        },
+        "ZAR": {
+            "country_name": "South Africa",
+            "currency_name": "Rand",
+            "currency_iso_code": "ZAR",
+            "alpha2_code": "ZA",
+            "numeric_id": 710,
+            "exchange_rate": 19.1248,
+            "country_code": "ZAF"
+        },
+        "SEK": {
+            "country_name": "Sweden",
+            "currency_name": "Swedish Krona",
+            "currency_iso_code": "SEK",
+            "alpha2_code": "SE",
+            "numeric_id": 752,
+            "exchange_rate": 11.6445,
+            "country_code": "SWE"
+        },
+        "THB": {
+            "country_name": "Thailand",
+            "currency_name": "Baht",
+            "currency_iso_code": "THB",
+            "alpha2_code": "TH",
+            "numeric_id": 764,
+            "exchange_rate": 36.736,
+            "country_code": "THA"
+        },
+        "TRY": {
+            "country_name": "Turkey",
+            "currency_name": "Turkish Lira",
+            "currency_iso_code": "TRY",
+            "alpha2_code": "TR",
+            "numeric_id": 792,
+            "exchange_rate": 37.4528,
+            "country_code": "TUR"
+        },
+        "EUR": {
+            "country_name": "European Union",
+            "currency_name": "Euro",
+            "currency_iso_code": "EUR",
+            "alpha2_code": "EU",
+            "numeric_id": 978,
+            "exchange_rate": 1.0,
+            "country_code": "EU"
+        }
+    }
+}
