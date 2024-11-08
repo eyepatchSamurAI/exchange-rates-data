@@ -74,6 +74,7 @@ if __name__ == "__main__":
     country_data = get_country_data()
     eu_exchange_rates = get_daily_exchange_rate_xml()
     exchange_rates_data = get_exchange_rates_from_xml_element(eu_exchange_rates)
-    result = merge_country_and_currency_data(country_data, exchange_rates_data)
+    new_exchange_rates = merge_country_and_currency_data(country_data, exchange_rates_data)
     # Update Previous exchange_rates
     write_json_file(f"./{DATA_FOLDER}/prev_exchange_rates.json", current_exchange_rates)
+    write_json_file(f"./{DATA_FOLDER}/exchange_rates.json", new_exchange_rates)
