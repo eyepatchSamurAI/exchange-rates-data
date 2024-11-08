@@ -55,7 +55,6 @@ def merge_country_and_currency_data(country_data, exchange_rates_data):
             "exchange_rate": 1.0,
             "country_code": "EU" # Only one with a three digit country code
         }
-
     }
     for country_code, details in country_data.items():
         currency_code = details.get("currency_iso_code")
