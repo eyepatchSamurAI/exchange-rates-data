@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'  # Runs at midnight UTC every day
   workflow_dispatch:
 
+permissions:
+  contents: write
+  
 jobs:
   update-exchange-rates:
     runs-on: ubuntu-latest
